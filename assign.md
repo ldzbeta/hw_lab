@@ -1,7 +1,3 @@
-Here’s the styled Markdown version of your Verilog explanation:
-
----
-
 ### When to Use `always` in Verilog
 
 You use an `always` block in Verilog when:
@@ -40,6 +36,4 @@ You use an `always` block in Verilog when:
 - The logic can be written as a direct equation with `assign`.
 - The logic involves pure Boolean expressions without control flow.
 
---- 
 
-Let me know if you'd like any further refinements!
